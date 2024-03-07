@@ -5,16 +5,16 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-03-07T13:24:11.093Z",
-        "lastAccessed": "2024-03-07T13:24:11.093Z"
+        "creation": "2024-03-07T13:26:09.749Z",
+        "lastAccessed": "2024-03-07T13:26:09.750Z"
     },
     {
         "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2428%3Btimestamp%3A1709817848",
+        "value": "v2%3Bclient_version%3A2428%3Btimestamp%3A1709817964",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-03-07T13:24:11.093Z",
-        "lastAccessed": "2024-03-07T13:24:11.093Z"
+        "creation": "2024-03-07T13:26:09.750Z",
+        "lastAccessed": "2024-03-07T13:26:09.750Z"
     }
 ]
