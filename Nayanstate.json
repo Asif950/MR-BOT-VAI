@@ -1,21 +1,21 @@
 [
     {
         "key": "dbln",
-        "value": "%7B%22100078875757198%22%3A%22u9yCwz5y%22%7D",
+        "value": "%7B%22100078875757198%22%3A%220SbaXTQC%22%2C%22100009912667091%22%3A%22xwWB4J2c%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2024-03-08T11:52:02.851Z",
-        "lastAccessed": "2024-03-08T11:52:02.851Z"
+        "creation": "2024-03-10T03:41:54.441Z",
+        "lastAccessed": "2024-03-10T03:41:54.441Z"
     },
     {
         "key": "fr",
-        "value": "0phDBtw508dPti9Ko.AWWUlI4-G2q4Asz-OuHH1H1MNcU.Bl4hWl..AAA.0.0.Bl6vu2.AWXBc0V5tBY",
+        "value": "0phDBtw508dPti9Ko.AWVPiEZ_Bmo92ypC_xAmi_3nddk.Bl4hWl..AAA.0.0.Bl7Sv2.AWVqoQy4-Lc",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-03-08T11:52:02.851Z",
-        "lastAccessed": "2024-03-08T11:52:02.852Z"
+        "creation": "2024-03-10T03:41:54.441Z",
+        "lastAccessed": "2024-03-10T03:41:54.441Z"
     },
     {
         "key": "dpr",
@@ -23,25 +23,16 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-03-08T11:52:02.852Z",
-        "lastAccessed": "2024-03-08T11:52:02.852Z"
+        "creation": "2024-03-10T03:41:54.441Z",
+        "lastAccessed": "2024-03-10T03:41:54.441Z"
     },
     {
         "key": "wd",
-        "value": "891x1682",
+        "value": "364x686",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-03-08T11:52:02.852Z",
-        "lastAccessed": "2024-03-08T11:52:02.852Z"
-    },
-    {
-        "key": "presence",
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1709898703781%2C%22v%22%3A1%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-03-08T11:52:02.852Z",
-        "lastAccessed": "2024-03-08T11:52:02.852Z"
+        "creation": "2024-03-10T03:41:54.441Z",
+        "lastAccessed": "2024-03-10T03:41:54.441Z"
     }
 ]
